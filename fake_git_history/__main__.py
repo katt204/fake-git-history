@@ -1,6 +1,6 @@
 """
 Fake git history - A python script to create fake git history.
-Created by: Md. Almas Ali (https://github.com/katt204/)
+Created by: Katt Morgen (https://github.com/katt204/)
 """
 
 import os

@@ -2,7 +2,7 @@
 
 A simple utility to generate fake git history for a Github and Gitlab profile to make your profile look more active than it actually is.
 
-***Author: [Md. Almas Ali](https://almasali.net)***
+***Author: [Katt Morgen](https://almasali.net)***
 
 [![PyPI version](https://badge.fury.io/py/fake-git-history.svg)](https://badge.fury.io/py/fake-git-history)
 [![Downloads](https://pepy.tech/badge/fake-git-history)](https://pepy.tech/project/fake-git-history)
@@ -54,7 +54,7 @@ This project is inspired by [fake-git-history](https://github.com/artiebits/fake
 
 If you find this project useful and want to support my work, you can buy me a coffee. My work is open source and free. Your support will allow me to continue my work and build more projects. Thank you for your support!
 
-<a href="https://link.payoneer.com/Token?t=2E03FEE9CB1343618D0B91025A1DD1A6&src=pl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" title="Support Md. Almas Ali"></a>
+<a href="https://link.payoneer.com/Token?t=2E03FEE9CB1343618D0B91025A1DD1A6&src=pl" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" title="Support Katt Morgen"></a>
 
 ## Installation
 
