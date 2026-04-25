@@ -7,9 +7,9 @@ A simple utility to generate fake git history for a Github and Gitlab profile to
 [![PyPI version](https://badge.fury.io/py/fake-git-history.svg)](https://badge.fury.io/py/fake-git-history)
 [![Downloads](https://pepy.tech/badge/fake-git-history)](https://pepy.tech/project/fake-git-history)
 [![wakatime](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed/project/60aed9e5-281b-4468-8819-5a1cef8d90d8.svg)](https://wakatime.com/badge/user/168edf9f-71dc-49cc-bf77-592d9c9d4eed/project/60aed9e5-281b-4468-8819-5a1cef8d90d8)
-![Hits](https://hits.sh/github.com/Almas-Ali/fake-git-history.svg?extraCount=6000)
+![Hits](https://hits.sh/github.com/katt204/fake-git-history.svg?extraCount=6000)
 
-![How it works](https://raw.githubusercontent.com/Almas-Ali/fake-git-history/refs/heads/master/screenshots/contribution-graph.gif "How it works")
+![How it works](https://raw.githubusercontent.com/katt204/fake-git-history/refs/heads/master/screenshots/contribution-graph.gif "How it works")
 
 ## Table of Contents
 
@@ -68,7 +68,7 @@ You can also install it from source. If you want then follow this.
 
 ```bash
 # Clone the git repository
-git clone https://github.com/Almas-Ali/fake-git-history.git fake-git-history
+git clone https://github.com/katt204/fake-git-history.git fake-git-history
 
 # Change your directory to fake-git-history
 cd fake-git-history
@@ -319,7 +319,7 @@ git config --global user.email "<YOUR-EMAIL>"
 
 2. If you are setting the repo as private, make sure to enable the option "Private contributions" in your GitHub profile graph top right side on the graph. Select both options. See the image below:
 
-![Private Contributions](https://raw.githubusercontent.com/Almas-Ali/fake-git-history/refs/heads/master/screenshots/profile-setting.png "Private Contributions")
+![Private Contributions](https://raw.githubusercontent.com/katt204/fake-git-history/refs/heads/master/screenshots/profile-setting.png "Private Contributions")
 
 
 ## Caution

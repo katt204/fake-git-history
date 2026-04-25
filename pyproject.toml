@@ -3,8 +3,8 @@ name = "fake-git-history"
 dynamic = ["version"]
 dependencies = ["rong==0.0.3"]
 requires-python = ">=3.7"
-authors = [{name = "Md. Almas Ali", email = "almaspr3@gmail.com"}]
-maintainers = [{name = "Md. Almas Ali", email = "almaspr3@gmail.com"}]
+authors = [{name = "Katt Morgen", email = "kattmorgen@outlook.com"}]
+maintainers = [{name = "Katt Morgen", email = "kattmorgen@outlook.com"}]
 description = "A simple utility to generate fake git history for a Github and Gitlab profile."
 readme = "README.md"
 license = {file = "LICENSE"}
@@ -64,10 +64,10 @@ classifiers = [
 fake-git-history = "fake_git_history.__main__:new_main"
 
 [project.urls]
-Homepage = "https://github.com/Almas-Ali/fake-git-history"
-Documentation = "https://github.com/Almas-Ali/fake-git-history#readme"
-Repository = "https://github.com/Almas-Ali/fake-git-history"
-"Bug Tracker" = "https://github.com/Almas-Ali/fake-git-history/issues"
+Homepage = "https://github.com/katt204/fake-git-history"
+Documentation = "https://github.com/katt204/fake-git-history#readme"
+Repository = "https://github.com/katt204/fake-git-history"
+"Bug Tracker" = "https://github.com/katt204/fake-git-history/issues"
 
 [build-system]
 requires = ["hatchling"]
